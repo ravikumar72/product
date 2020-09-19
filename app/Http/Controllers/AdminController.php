@@ -64,7 +64,7 @@ class AdminController extends Controller
             //return with error
         }
 
-    }
+    }     
 
 
     function editCategory(Request $request){
